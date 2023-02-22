@@ -3,7 +3,7 @@
         <Row class="listTop">
             <Col span="7">
                 <div class="leftTop">
-                    <span class='title'><span class="title-6">模块一分析</span></span>
+                    <span class='title'><span class="title-6">模块一 分析</span></span>
                     <span class="angle1"></span>
                     <span class="angle2"></span>
                     <span class="angle3"></span>
